@@ -8,7 +8,7 @@ Sample code and exercises from ROS tutorials
 # Understanding ROS Nodes, Topics, Services and Parameters
 
 ![alt text](https://github.com/serrauvic/ros_tutorials/blob/master/img/rqt_graph1.png)
-![alt text](https://github.com/serrauvic/ros_tutorials/blob/master/img/rqt_graph2.png)
+![alt text](https://github.com/serrauvic/ros_tutorials/blob/master/img/rqt_grpah2.png)
 ![alt text](https://github.com/serrauvic/ros_tutorials/blob/master/img/node_topics_messages.png)
 
 # Creating and buiding ROS Package
